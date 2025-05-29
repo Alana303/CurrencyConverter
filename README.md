@@ -28,9 +28,6 @@ A simple and interactive Currency Converter web application built using **HTML**
 
 ---
 
-## 📷 Screenshots
-
-> *(Include screenshots here, like `/screenshots/homepage.png`)*
 
 ---
 
